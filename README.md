@@ -1,2 +1,2 @@
-# fhir_post
-112學年度第1學期[MI652L]「資訊管理專題」 - 將資料格式轉換FHIR傳值
+# 將資料格式透過API轉換為FHIR格式並傳值
+<p>使用公用伺服器將值傳入http://hapi.fhir.org/baseR4/Patient</p>
