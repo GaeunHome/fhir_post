@@ -69,6 +69,7 @@ def send_fhir_data(fhir_data):
 
 # 假設表單有以下欄位
 form_data = {
+    "identifier": "PAC02",
     "firstName": "四",
     "lastName": "李",
     "gender": "female",
