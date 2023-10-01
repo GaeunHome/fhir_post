@@ -5,7 +5,6 @@ def convert_to_fhir(data):
     # 表單資料轉換為FHIR資源的程式碼
     fhir_data = {
         "resourceType": "Patient",
-        "id": "patient001",
         "name": [
             {
                 "family": data["lastName"],
