@@ -9,7 +9,7 @@
 
 2. **以 Patient 資料表為例**
 
-   - 其他資料表需根據 FHIR 規定格式傳送指定值。
-   - 確保資料符合 FHIR 標準，以便正確傳輸和解析。
+- 其他資料表需根據 FHIR 規定格式傳送指定值。
+- 確保資料符合 FHIR 標準，以便正確傳輸和解析。
 
 > **注意：** FHIR（Fast Healthcare Interoperability Resources）是一種用於交換電子健康記錄的標準，確保資料的互操作性和一致性。
